@@ -1,0 +1,13 @@
+{
+  "name": "issue-vite-build-with-rollup-plugin-string",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "rollup-plugin-string": "^3.0.0",
+    "vite": "^2.1.5"
+  }
+}
